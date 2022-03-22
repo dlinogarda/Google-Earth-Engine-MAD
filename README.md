@@ -7,6 +7,8 @@ This is the sript for Multivariate Alteration Detection (MAD) for Google Earth E
 ## Quick Start Guide
 You just determine the input image and the area based on the coordinate subset area. In the map, the layer can be set to changed and unchanged pixels / area.
 
+## Link to source code of GEE-MAD
+https://code.earthengine.google.com/?scriptPath=users%2Flinogaruda%2FMAD%3AMAD_Test%2FMAD
 
 ## Citations
 
